@@ -295,3 +295,4 @@ def health():
         "status": "healthy",
         "gemini_key_loaded": bool(GEMINI_API_KEY)
     }
+    
